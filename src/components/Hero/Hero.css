@@ -1,0 +1,13 @@
+.hero-wrapper {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  background-image: linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.3) 0%,
+      rgba(0, 0, 0, 0.4) 100%
+    ),
+    url(https://i.ibb.co/YPkcYHz/pexels-miandla-1108807-1.jpg);
+  background-position: bottom center;
+  background-size: cover;
+}
